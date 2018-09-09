@@ -30,7 +30,9 @@ Istio是Google/IBM/Lyft联合开发的开源项目，2017年5月发布第一个r
 
 Istio来自希腊语，英文意思是”Sail”， 翻译为中文是“启航”。它的图标如下:
 
-![](image\a.png)
+![](image/a.png)
+
+
 
 可以类比Google的另外一个相关产品：Kubernetes，名字也是同样起源于古希腊，是船长或者驾驶员的意思。下图是Kubernetes的图标： 
 
